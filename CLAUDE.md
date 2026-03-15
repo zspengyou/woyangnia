@@ -6,6 +6,7 @@ woyangnia.com — Love Page SaaS platform. Couples create personalized romantic 
 
 - Product spec: `requirements/productspec.md`
 - Design spec: `docs/superpowers/specs/2026-03-14-homepage-design.md`
+- supabase credential: `.evn.local`
 
 ## Tech Stack
 

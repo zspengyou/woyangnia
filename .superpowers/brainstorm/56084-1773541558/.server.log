@@ -1,0 +1,8 @@
+{"type":"server-started","port":49854,"host":"127.0.0.1","url_host":"localhost","url":"http://localhost:49854","screen_dir":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558"}
+{"type":"screen-added","file":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558/homepage-style.html"}
+{"type":"screen-added","file":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558/homepage-layout.html"}
+{"type":"screen-added","file":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558/homepage-layout-v2.html"}
+{"type":"screen-added","file":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558/homepage-vibes.html"}
+{"type":"screen-added","file":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558/homepage-personal.html"}
+{"type":"screen-added","file":"/Users/jay.zhou/Documents/workspace/jayzhou/woyangnia/.superpowers/brainstorm/56084-1773541558/waiting.html"}
+{"type":"server-stopped","reason":"owner process exited"}

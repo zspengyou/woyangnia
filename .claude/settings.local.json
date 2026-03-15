@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(git:*)",
+      "Bash(/Users/jay.zhou/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.2/skills/brainstorming/scripts/start-server.sh --project-dir /Users/jay.zhou/Documents/workspace/jayzhou/woyangnia)",
+      "Bash(npx turbo:*)",
+      "Bash(npm run:*)",
+      "Bash(sleep:*)",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__navigate_page",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__resize_page",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__take_screenshot",
+      "Bash(curl:*)",
+      "Bash(echo:*)"
+    ]
+  }
+}
